@@ -3,7 +3,7 @@
 * About my-repo
 #+CAPTION: my-repo
 #+ATTR_HTML: :alt my-repo :title my-repo :align left
-[[https://raw.githubusercontent.com/knsrinath/dots/main/2021-06-07_000.png]]
+[[https://raw.githubusercontent.com/knsrinath/dots/main/2021-06-07_001.png]]
 
 my-repo is a repository of packages for myself.self
 
