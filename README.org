@@ -27,3 +27,5 @@ Then, To install a package:
 + dmenu-srinath
 + dwm-srinath
 + st-srinath
+
+Thanks to Derek sir aka DistroTube aka DT for making this possible.
