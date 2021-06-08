@@ -7,9 +7,9 @@
 
 my-repo is a repository of packages for myself
 
-* How to "install" my-repo
+* How to get it?
 
-Adding a third-party repository (like this one) is easy.  Just add the following lines to the end of /etc/pacman.conf :
+Just add the following lines to the end of /etc/pacman.conf :
 
 #+begin_example
 [my-repo]
@@ -17,16 +17,13 @@ SigLevel = Optional DatabaseOptional
 Server = https://raw.githubusercontent.com/knsrinath/$repo/main/$arch
 #+end_example
 
-Then, sync the repositories and update your system with:
+Then, sync the repositories and update your system:
 =sudo pacman -Syyu=
 
-And, then:
+Then, To install a package:
 =sudo pacman -S name-of-package=
 
 * Packages in this repository
 + dmenu-srinath
 + dwm-srinath
 + st-srinath
-
-* Where are the config files?
-These packages are binary installations but they do place the source code on your system, since to configure these you will need to edit the source code and recompile.  The source code is placed in /opt.  For example, the source code for dwm-srinath is located at /opt/dwm-srinath.
