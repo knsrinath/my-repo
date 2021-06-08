@@ -28,4 +28,4 @@ Then, To install a package:
 + dwm-srinath
 + st-srinath
 
-* Thanks to Derek sir aka DistroTube aka DT for making this possible.
+*Thanks to Derek sir aka DistroTube aka DT for making this possible.
